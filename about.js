@@ -1,0 +1,1 @@
+console.log("depzai ke t");
